@@ -4,7 +4,7 @@
         "worker-id": null
     },
     "autosave": true,
-    "background": true,
+    "background": false,
     "colors": true,
     "cpu": {
         "argon2-impl": null,
@@ -57,12 +57,12 @@
     "pools": [
         {
             "algo": "rx/0",
-            "coin": "XMR",
+            "coin": "monero",
             "daemon": false,
             "enabled": true,
             "keepalive": true,
             "nicehash": false,
-            "pass": "x",
+            "pass": "XMRminer001",
             "rig-id": null,
             "self-select": null,
             "sni": false,
@@ -70,8 +70,8 @@
             "submit-to-origin": false,
             "tls": false,
             "tls-fingerprint": null,
-            "url": "xmr-asia1.nanopool.org:10300",
-            "user": "45ioSqWMzGTXPMFme5c8RxcKvakKCY9dcj7oW2zBUYCt93ci2kPutiSEHxtEAd69jGAJE1sGiwNFENdN1KC5S2BB53nG9Pd.XMRminer002/XMRminer002.com"
+            "url": "pool.supportxmr.com:7777",
+            "user": "44ei9DdHeSiV7iF9CHsa6GXW5KSupmU8bds7B5HBq1PreR8W64imkaWNenTRHPmp7vbuBSUQ1GmkpAkwvBQ4uUcL4cx7dkh"
         }
     ],
     "print-time": 60,
