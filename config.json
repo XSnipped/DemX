@@ -4,7 +4,7 @@
         "worker-id": null
     },
     "autosave": true,
-    "background": false,
+    "background": true,
     "colors": true,
     "cpu": {
         "argon2-impl": null,
